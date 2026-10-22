@@ -1,0 +1,10 @@
+{
+  "name": "mathorcup-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MathorCup 个人竞赛任务与交付管理工作台",
+  "scripts": {
+    "start": "node start-workbench.cjs",
+    "test": "cd workbench && node --test test.cjs"
+  }
+}
